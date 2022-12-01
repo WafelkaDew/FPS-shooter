@@ -363,6 +363,7 @@
 "Assets/NZ PT-9M Pistol/Scripts/NzRotator.cs"
 "Assets/NZ PT-9M Pistol/Scripts/NzSelection.cs"
 "Assets/PlayerMovement.cs"
+"Assets/Target.cs"
 -langversion:9.0
 
 /deterministic
