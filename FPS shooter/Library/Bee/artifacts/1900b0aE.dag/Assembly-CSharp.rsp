@@ -355,6 +355,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/48 Particle Effect Pack/Script/csDestroyEffect.cs"
+"Assets/48 Particle Effect Pack/Script/csMouseOrbit.cs"
+"Assets/48 Particle Effect Pack/Script/csParticleEffectPackLightControl.cs"
+"Assets/48 Particle Effect Pack/Script/csParticleMove.cs"
+"Assets/48 Particle Effect Pack/Script/csShowAllEffect.cs"
+"Assets/Gun2.cs"
 "Assets/mouseLook.cs"
 "Assets/NZ PT-9M Pistol/Scripts/NzAnim.cs"
 "Assets/NZ PT-9M Pistol/Scripts/NzCamNav.cs"
@@ -362,6 +368,7 @@
 "Assets/NZ PT-9M Pistol/Scripts/NzRotator.cs"
 "Assets/NZ PT-9M Pistol/Scripts/NzSelection.cs"
 "Assets/PlayerMovement.cs"
+"Assets/Target2.cs"
 -langversion:9.0
 
 /deterministic
