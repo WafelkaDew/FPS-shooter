@@ -371,6 +371,7 @@
 "Assets/Scripts/FPS/PlayerMovement.cs"
 "Assets/Scripts/FPS/Target2.cs"
 "Assets/Scripts/PlayerManager.cs"
+"Assets/WeaponSwitching.cs"
 -langversion:9.0
 
 /deterministic
